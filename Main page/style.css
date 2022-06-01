@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+
+.navbar {
+    width: 100vw;
+    height: 4vw;
+    background-color: red;
+}
+
+.body {
+    width: 100vw;
+    height: 96vh;
+    background-color: orange;
+}
